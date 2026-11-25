@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="frame" height="10.5px" width="50.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 25.25, 5.25)">
+    <use ffdec:characterId="843" height="10.5" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="50.5" xlink:href="#shape0"/>
+    <use ffdec:characterId="845" height="100.2" style="mix-blend-mode: soft-light; opacity: 0.4" transform="matrix(0.4985, 0.0, 0.0, 0.0996, -24.95, -5.0)" width="99.8" xlink:href="#sprite0"/>
+  </g>
+  <defs>
+    <g id="shape0">
+      <path d="M22.05 -1.6 L21.35 -1.6 22.05 -1.6 M4.9 -5.0 L8.3 -2.2 Q11.25 -0.1 12.65 0.0 15.6 0.1 18.95 -2.2 L22.2 -4.8 22.2 -5.0 24.45 -5.0 Q24.95 -4.9 25.0 -3.6 L25.0 0.2 Q22.05 2.7 20.45 5.0 L9.75 5.0 9.65 5.0 Q7.3 3.3 0.35 1.6 -7.5 -0.4 -11.75 0.4 L-15.05 1.1 Q-16.8 1.6 -19.25 2.8 L-21.1 3.8 -23.4 5.0 -24.7 5.0 Q-25.0 4.9 -25.0 4.0 L-25.0 0.0 -24.65 0.6 -24.1 1.0 Q-22.75 1.0 -21.1 -0.5 L-20.25 -1.4 Q-18.6 -3.3 -17.9 -5.0 L4.9 -5.0 M-15.9 -0.3 L-16.75 -0.3 -15.9 -0.3 M-16.4 -2.4 L-18.25 -2.4 -16.4 -2.4 M19.05 0.2 L18.15 0.2 19.05 0.2 M18.05 1.6 L15.5 1.6 18.05 1.6" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.9 -5.0 L22.2 -5.0 22.2 -4.8 18.95 -2.2 Q15.6 0.1 12.65 0.0 11.25 -0.1 8.3 -2.2 L4.9 -5.0 M25.0 0.2 L25.0 3.6 Q24.9 4.8 24.4 5.0 L20.45 5.0 Q22.05 2.7 25.0 0.2 M9.65 5.0 L-23.4 5.0 -21.1 3.8 -19.25 2.8 Q-16.8 1.6 -15.05 1.1 L-11.75 0.4 Q-7.5 -0.4 0.35 1.6 7.3 3.3 9.65 5.0 M-25.0 0.0 L-25.0 -3.7 Q-25.05 -4.8 -24.7 -5.0 L-17.9 -5.0 Q-18.6 -3.3 -20.25 -1.4 L-21.1 -0.5 Q-22.75 1.0 -24.1 1.0 L-24.65 0.6 -25.0 0.0" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+      <path d="M22.2 -5.0 L4.9 -5.0 -17.9 -5.0 -24.7 -5.0 Q-25.05 -4.8 -25.0 -3.7 L-25.0 0.0 -25.0 4.0 Q-25.0 4.9 -24.7 5.0 L-23.4 5.0 9.65 5.0 M22.2 -5.0 L24.45 -5.0 Q24.95 -4.9 25.0 -3.6 L25.0 0.2 25.0 3.6 Q24.9 4.8 24.4 5.0 L20.45 5.0 9.75 5.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="5.0" stroke-opacity="0.5019608" stroke-width="1.0"/>
+      <path d="M21.35 -1.6 L22.05 -1.6 M4.9 -5.0 L8.3 -2.2 Q11.25 -0.1 12.65 0.0 15.6 0.1 18.95 -2.2 L22.2 -4.8 22.2 -5.0 M9.75 5.0 L9.65 5.0 Q7.3 3.3 0.35 1.6 -7.5 -0.4 -11.75 0.4 L-15.05 1.1 Q-16.8 1.6 -19.25 2.8 L-21.1 3.8 -23.4 5.0 M20.45 5.0 Q22.05 2.7 25.0 0.2 M15.5 1.6 L18.05 1.6 M18.15 0.2 L19.05 0.2 M-18.25 -2.4 L-16.4 -2.4 M-16.75 -0.3 L-15.9 -0.3 M-17.9 -5.0 Q-18.6 -3.3 -20.25 -1.4 L-21.1 -0.5 Q-22.75 1.0 -24.1 1.0 L-24.65 0.6 -25.0 0.0" ffdec:has-small-stroke="true" ffdec:original-stroke-width="0.5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="5.0" stroke-opacity="0.15294118" stroke-width="1.0"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0336, 0.0, 0.0, 0.0723, -2.85, -45.8)" gradientUnits="userSpaceOnUse" id="gradient0" r="819.2" spreadMethod="pad">
+      <stop offset="0.07450980392156863" stop-color="#eeb883"/>
+      <stop offset="0.9764705882352941" stop-color="#ad7c4d"/>
+    </radialGradient>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.049, 0.0, 0.0, 0.0722, -3.0, -49.2)" gradientUnits="userSpaceOnUse" id="gradient1" r="819.2" spreadMethod="pad">
+      <stop offset="0.023529411764705882" stop-color="#d2a983"/>
+      <stop offset="1.0" stop-color="#8a5a2e"/>
+    </radialGradient>
+    <g id="sprite0">
+      <use ffdec:characterId="844" height="100.2" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="99.8" xlink:href="#shape1"/>
+    </g>
+    <g id="shape1">
+      <path d="M0.2 0.2 L99.7 0.15 99.9 100.05 0.1 100.35 0.2 0.2" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <radialGradient cx="0" cy="0" gradientTransform="matrix(0.0823, 0.0, 0.0, 0.0823, 34.65, 21.9)" gradientUnits="userSpaceOnUse" id="gradient2" r="819.2" spreadMethod="pad">
+      <stop offset="0.0" stop-color="#ffffff"/>
+      <stop offset="1.0" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+</svg>
